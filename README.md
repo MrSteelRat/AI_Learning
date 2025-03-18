@@ -46,9 +46,3 @@ Then, run `run_app_bot.py`:
 ```bash
 python run_app_bot.py
 ```
-
-## Contributing
-
-If you'd like to contribute to this project, please fork the repository and submit a pull request with a description of the changes you’ve made.
-
-```
