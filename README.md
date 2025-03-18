@@ -1,6 +1,5 @@
 Конечно! Вот полный Markdown файл, который объединяет все описания и инструкции в одном файле:
 
-```markdown
 # AI_Learning
 
 A project for learning and creating neural networks using Python and C/C++. This repository presents various approaches and examples for working with artificial intelligence, as well as implementations and training of neural network models.
